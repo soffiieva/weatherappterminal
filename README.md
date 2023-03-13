@@ -1,4 +1,4 @@
-# weatherappterminal
+# Weather in ur Terminal
 My very first small Python application)😅
 
 The application displays the weather conditions and temperature in the selected city
